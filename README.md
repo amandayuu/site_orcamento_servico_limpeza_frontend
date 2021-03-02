@@ -9,3 +9,12 @@ Instalar as dependências
 SEQUÊNCIAS EXECUTADAS E LIB INSTALADAS
 Criar o arquivo package.json
 ### npm init
+
+Abrir o projeto no endereço padrão
+localhost:3000
+
+Instalar o bootstrap
+### npm install --save bootstrap
+
+Instalar o ReactStrap
+### npm install --save reactstrap react react-dom
