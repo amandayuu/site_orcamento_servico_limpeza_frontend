@@ -1,0 +1,17 @@
+.descriptionTop{
+    background-color: #4584FA;
+    color: whitesmoke;
+    margin-bottom: 0rem !important;
+}
+
+.circle{
+    width: 140px;
+    height: 140px;
+    background-color: #FA5FAC;
+    padding-top: 24px;
+}
+
+.centralize{
+    margin: 0 auto;
+    float: none !important;
+}
