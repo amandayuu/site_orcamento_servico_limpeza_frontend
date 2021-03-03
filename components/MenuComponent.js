@@ -9,7 +9,6 @@ import {
     Nav,
     NavItem,
     NavLink,
-    NavbarText,
     Container
 } from 'reactstrap';
 
@@ -28,10 +27,10 @@ const Menu = (props) => {
                                 <NavLink href="/">HomePage</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="/orcamento">Orçamento</NavLink>
+                                <NavLink href="/budget">Orçamento</NavLink>
                             </NavItem>
                         </Nav>
-                        <NavbarText>Simple Text</NavbarText>
+                        {/* <NavbarText>Simple Text</NavbarText> */}
                     </Collapse>
                 </Container>
             </Navbar>

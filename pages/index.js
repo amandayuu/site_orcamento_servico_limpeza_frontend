@@ -1,13 +1,19 @@
 import React from 'react'
 import { Jumbotron, Container } from 'reactstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
+
+import HeadComponent from '../components/HeadComponent'
 import styles from '../style/Index.module.css'
-import Menu from '../components/Menu'
-import Footer from '../components/Footer'
+import Menu from '../components/MenuComponent'
+import Footer from '../components/FooterComponent'
 
 function Homepage() {
     return (
         <div>
+            <HeadComponent>
+                Clean & Clean
+                <meta name="description" content="Site de serviços de limpeza" />
+            </HeadComponent>
             <Menu />
             <Jumbotron fluid className={styles.descriptionTop}>
                 <Container className="text-center">
