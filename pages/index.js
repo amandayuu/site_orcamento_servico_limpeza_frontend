@@ -1,6 +1,10 @@
 import React from 'react'
 import { Jumbotron, Container } from 'reactstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { fas } from '@fortawesome/free-solid-svg-icons'
+library.add(fas)
 
 import HeadComponent from '../components/HeadComponent'
 import styles from '../style/Index.module.css'
@@ -46,24 +50,27 @@ function Homepage() {
                     <div className="row">
                         <div className="col-md-4">
                             <div className="rounded-circle circle centralize">
+                                <FontAwesomeIcon icon="hand-sparkles" />
                             </div>
-                            <h2 className="mt-4 mb-4">Serviço 2</h2>
+                            <h2 className="mt-4 mb-4">Pork belly </h2>
                             <p>
                                 Pork belly tail chicken venison pancetta kevin short ribs salami tri-tip cow biltong pork.
                             </p>
                         </div>
                         <div className="col-md-4">
                             <div className="rounded-circle circle centralize">
+                                <FontAwesomeIcon icon="broom" />
                             </div>
-                            <h2 className="mt-4 mb-4">Serviço 2</h2>
+                            <h2 className="mt-4 mb-4">Tri-tip cow</h2>
                             <p>
                                 Pork belly tail chicken venison pancetta kevin short ribs salami tri-tip cow biltong pork.
                             </p>
                         </div>
                         <div className="col-md-4">
                             <div className="rounded-circle circle centralize">
+                                <FontAwesomeIcon icon="soap" />
                             </div>
-                            <h2 className="mt-4 mb-4">Serviço 3</h2>
+                            <h2 className="mt-4 mb-4">Biltong</h2>
                             <p>
                                 Pork belly tail chicken venison pancetta kevin short ribs salami tri-tip cow biltong pork.
                             </p>
