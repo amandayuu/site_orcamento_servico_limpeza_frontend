@@ -18,3 +18,8 @@ Instalar o bootstrap
 
 Instalar o ReactStrap
 ### npm install --save reactstrap react react-dom
+
+Instalando a biblioteca de ícone
+### npm i --save @fortawesome/fontawesome-svg-core
+ ###  npm install --save @fortawesome/free-solid-svg-icons
+ ###  npm install --save @fortawesome/react-fontawesome
