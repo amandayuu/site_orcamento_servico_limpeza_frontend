@@ -6,10 +6,9 @@ Projeto desenvolvido com o intuito de estudar NextJs e NodeJs.
 ## Repositório do Backend: 
 https://github.com/amandayuu/site_orcamento_servico_limpeza_backend
 
+## SEQUÊNCIAS EXECUTADAS E LIB INSTALADAS
 ### Instalar as dependências
 npm install
-
-## SEQUÊNCIAS EXECUTADAS E LIB INSTALADAS
 
 ### Abrir o projeto no endereço padrão
 localhost:3000
