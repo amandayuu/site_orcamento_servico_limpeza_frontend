@@ -4,11 +4,9 @@
 Utilizando o NextJs desenvolver um site que disponibilize orçamentos para serviços de limpeza
 
 ### Instalar as dependências
-npm run dev
+npm install
 
 ## SEQUÊNCIAS EXECUTADAS E LIB INSTALADAS
-### Criar o arquivo package.json
-npm init
 
 ### Abrir o projeto no endereço padrão
 localhost:3000
