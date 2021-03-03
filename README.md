@@ -1,6 +1,6 @@
 # Projeto Clear & Clear - Frontend
 
-## Proposta
+### Proposta
 Projeto desenvolvido com o intuito de estudar NextJs e NodeJs.
 
 ### Repositório do Backend: 
