@@ -1,7 +1,8 @@
-# site_orcamento_servico_limpeza
+# Projeto Clear & Clear - Frontend
 
 ## Proposta
-Utilizando o NextJs desenvolver um site que disponibilize orçamentos para serviços de limpeza
+Projeto desenvolvido com o intuito de estudar NextJs e NodeJs.
+Repositório do Backend: 
 
 ### Instalar as dependências
 npm install
