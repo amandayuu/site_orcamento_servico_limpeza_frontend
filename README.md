@@ -26,8 +26,8 @@ npm install --save @fortawesome/react-fontawesome
 
 ## Links
 
-Sobre o font Awesome:
-### https://fontawesome.com/how-to-use/on-the-web/using-with/react
+### Sobre o font Awesome:
+https://fontawesome.com/how-to-use/on-the-web/using-with/react
 
-Sobre o Reactstrap:
-### https://reactstrap.github.io/components/form/
+### Sobre o Reactstrap:
+https://reactstrap.github.io/components/form/
