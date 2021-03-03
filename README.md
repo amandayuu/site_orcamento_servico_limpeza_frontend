@@ -1,4 +1,4 @@
-# Projeto Clear & Clear - Frontend
+# Projeto Clean & Clean - Frontend
 
 ### Proposta
 Projeto desenvolvido com o intuito de estudar NextJs e NodeJs.
